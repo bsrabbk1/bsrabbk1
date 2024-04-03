@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.alastyr.com%2Fblog%2Fyazilim-nedir-yazilim-kodlama-dilleri%2F&psig=AOvVaw09yF3i2aRBcuyOGCLIFmhM&ust=1712231750034000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKilt7_-pYUDFQAAAAAdAAAAABAT)
+
 <h1 align="center">Hi 👋, I'm Büşra Bebek</h1>
 <h3 align="center">I am a computer engineering student. I am learning DevOps.</h3>
 
