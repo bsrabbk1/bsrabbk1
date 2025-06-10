@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Büşra Bebek</h1>
-<h3 align="center">I am a computer engineering student. I am learning DevOps.</h3>
+<h3 align="center">I am a computer engineer.</h3>
 
 - 📫 How to reach me **bebekbusra7@gmail.com**
 
